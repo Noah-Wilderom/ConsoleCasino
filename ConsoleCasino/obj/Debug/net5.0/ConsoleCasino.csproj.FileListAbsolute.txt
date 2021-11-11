@@ -1,0 +1,16 @@
+C:\Users\wilde\Desktop\ConsoleCasino\ConsoleCasino\ConsoleCasino\bin\Debug\net5.0\ConsoleCasino.exe
+C:\Users\wilde\Desktop\ConsoleCasino\ConsoleCasino\ConsoleCasino\bin\Debug\net5.0\ConsoleCasino.deps.json
+C:\Users\wilde\Desktop\ConsoleCasino\ConsoleCasino\ConsoleCasino\bin\Debug\net5.0\ConsoleCasino.runtimeconfig.json
+C:\Users\wilde\Desktop\ConsoleCasino\ConsoleCasino\ConsoleCasino\bin\Debug\net5.0\ConsoleCasino.runtimeconfig.dev.json
+C:\Users\wilde\Desktop\ConsoleCasino\ConsoleCasino\ConsoleCasino\bin\Debug\net5.0\ConsoleCasino.dll
+C:\Users\wilde\Desktop\ConsoleCasino\ConsoleCasino\ConsoleCasino\bin\Debug\net5.0\ref\ConsoleCasino.dll
+C:\Users\wilde\Desktop\ConsoleCasino\ConsoleCasino\ConsoleCasino\bin\Debug\net5.0\ConsoleCasino.pdb
+C:\Users\wilde\Desktop\ConsoleCasino\ConsoleCasino\ConsoleCasino\obj\Debug\net5.0\ConsoleCasino.csproj.AssemblyReference.cache
+C:\Users\wilde\Desktop\ConsoleCasino\ConsoleCasino\ConsoleCasino\obj\Debug\net5.0\ConsoleCasino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilde\Desktop\ConsoleCasino\ConsoleCasino\ConsoleCasino\obj\Debug\net5.0\ConsoleCasino.AssemblyInfoInputs.cache
+C:\Users\wilde\Desktop\ConsoleCasino\ConsoleCasino\ConsoleCasino\obj\Debug\net5.0\ConsoleCasino.AssemblyInfo.cs
+C:\Users\wilde\Desktop\ConsoleCasino\ConsoleCasino\ConsoleCasino\obj\Debug\net5.0\ConsoleCasino.csproj.CoreCompileInputs.cache
+C:\Users\wilde\Desktop\ConsoleCasino\ConsoleCasino\ConsoleCasino\obj\Debug\net5.0\ConsoleCasino.dll
+C:\Users\wilde\Desktop\ConsoleCasino\ConsoleCasino\ConsoleCasino\obj\Debug\net5.0\ref\ConsoleCasino.dll
+C:\Users\wilde\Desktop\ConsoleCasino\ConsoleCasino\ConsoleCasino\obj\Debug\net5.0\ConsoleCasino.pdb
+C:\Users\wilde\Desktop\ConsoleCasino\ConsoleCasino\ConsoleCasino\obj\Debug\net5.0\ConsoleCasino.genruntimeconfig.cache
